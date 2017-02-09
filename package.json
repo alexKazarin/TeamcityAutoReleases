@@ -1,0 +1,19 @@
+{
+  "name": "teamcityautoreleases",
+  "version": "1.0.0",
+  "description": "test how to patch version adding text prefixes and creating tags into github",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexKazarin/TeamcityAutoReleases.git"
+  },
+  "author": "Alex Kazarin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexKazarin/TeamcityAutoReleases/issues"
+  },
+  "homepage": "https://github.com/alexKazarin/TeamcityAutoReleases#readme"
+}
