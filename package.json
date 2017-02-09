@@ -1,6 +1,6 @@
 {
   "name": "teamcityautoreleases",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test how to patch version adding text prefixes and creating tags into github",
   "main": "index.js",
   "scripts": {
